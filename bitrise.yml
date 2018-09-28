@@ -26,8 +26,7 @@ app:
         - example_step_input: Example Step Input's value
 
 
-  # ----------------------------------------------------------------
-  # --- workflows to Share this step into a Step Library
+  # -workflows to Share this step into a Step Library
   audit-this-step:
     steps:
     - script:
